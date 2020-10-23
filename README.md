@@ -1,4 +1,4 @@
 # Chess
  Simple chess game on console
  
- ![Alt text](img/starting_screen.png?raw=true "Title")
+ ![Starting Screen](/img/starting_screen.png)
